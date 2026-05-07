@@ -18,4 +18,8 @@ In this project, I'm going to build a Credit Risk Modelling System that can be u
 3. Install package:
    ```
    pip install -r requirements.txt
-   ``` 
+   ```
+4. Run the demo using streamlit: 
+   ```
+   streamlit run app.py
+   ```
